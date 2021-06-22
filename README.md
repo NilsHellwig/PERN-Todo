@@ -11,6 +11,6 @@ This application uses:
 ## Preview
 
 <p align="center">
-  <img src="demo/preview1.png" width="50%">
-  <img src="demo/preview2.png" width="50%">
+  <img src="preview/preview1.png" width="50%">
+  <img src="preview/preview2.png" width="50%">
 </center>
