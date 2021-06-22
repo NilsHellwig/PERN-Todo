@@ -1,4 +1,4 @@
-# PERN-Stack
+# PERN-Stack Todo-List
 
 ## About
 This application uses: 
